@@ -19,6 +19,9 @@ public class OgrenciTest {
 
         System.out.println(ogr.getNo()+ "-"+ ogr.getAd()+ " "+ ogr.getSoyad()+ " "+ ogr.getHarc());
 
+        Ogrenci org2 = new Ogrenci( 2,  "Uğur", "Coşkun", " Türkiye", 5000 );
+
+
 
     }
 }
