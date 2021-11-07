@@ -21,7 +21,7 @@ public class OgrenciTest {
 
         Ogrenci org2 = new Ogrenci( 2,  "Uğur", "Coşkun", " Türkiye", 5000 );
 
-
+        System.out.println(org2);
 
     }
 }
